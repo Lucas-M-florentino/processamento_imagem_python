@@ -15,10 +15,10 @@ the package image_processing is send to:
 
 ## Instalation
 
-Use the package [pip](https://pip.in/en/stable/) to install package_name
+Use the package [pip](https://pip.in/en/stable/) to install image_processing
 
 ```bash
-pip install package_name
+pip install image_processing
 ```
 
 ## Usage
